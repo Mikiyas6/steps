@@ -6,6 +6,8 @@ A small project called **Steps** built using **React**! It demonstrates core Rea
 
 ![Steps Component](./public/steps.png)
 
+- Github Repo: [Github-link](https://github.com/Mikiyas6/steps/)
+
 ## 🛠️ Concepts Implemented
 
 - **useState** Hook for managing state 🎛️
@@ -42,7 +44,7 @@ A small project called **Steps** built using **React**! It demonstrates core Rea
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/steps-project.git
+   git clone https://github.com/Mikiyas6/steps
    ```
 1. Install dependencies:
    ```bash
